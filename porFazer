@@ -1,0 +1,12 @@
+Falta move:
+-adulto  //feito
+-idoso   //feito
+-cao     //feito
+-vampiro //feito
+
+Funcoes novas:
+savegame (POR FAZER)
+getIdInSafeHeaven // feito
+
+Jogo:
+acabar o jogo quando nao houve transformacoes em 8 rodadas (POR FAZER)
