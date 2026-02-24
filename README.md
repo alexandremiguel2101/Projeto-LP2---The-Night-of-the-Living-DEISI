@@ -8,4 +8,3 @@ https://youtu.be/zV6ROHN9Omw
 
 ## Alunos
 - Alexandre Oliveira, a22107866
-- Rafael Martins, a22308006
